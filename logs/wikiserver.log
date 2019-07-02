@@ -1,0 +1,14 @@
+2019-06-28 16:23:26 [INFO] [PID-26431] main.go main:16 test 
+2019-06-28 16:23:26 [INFO] [PID-26431] server.go Listen:43 Magic happens on port 8000 
+2019-06-28 16:25:03 [INFO] [PID-27349] main.go main:16 test 
+2019-06-28 16:25:03 [INFO] [PID-27349] server.go Listen:43 Magic happens on port 8000 
+2019-06-28 16:31:42 [INFO] [PID-30841] server.go AttachHandler:32 Attaching HTTP handler for route: [GET] / 
+2019-06-28 16:31:42 [INFO] [PID-30841] main.go main:29 test 
+2019-06-28 16:31:42 [INFO] [PID-30841] server.go Listen:43 Magic happens on port 8000 
+2019-06-28 16:31:48 [DEBUG] [PID-30841] middleware.go 1:43  In [::1]:51380 GET / 
+2019-06-28 16:31:48 [DEBUG] [PID-30841] middleware.go 1:59 Out [::1]:51380 GET / [200] 27.724µs - 15 bytes 
+2019-06-28 21:40:20 [INFO] [PID-13091] server.go AttachHandler:32 Attaching HTTP handler for route: [GET] / 
+2019-06-28 21:40:20 [INFO] [PID-13091] main.go main:34 test 
+2019-06-28 21:40:20 [INFO] [PID-13091] server.go Listen:43 Magic happens on port 8000 
+2019-06-28 21:48:24 [DEBUG] [PID-20126] database.go MakeTables:44 create database tables 
+2019-06-28 21:49:41 [DEBUG] [PID-20817] database.go MakeTables:44 create database tables 

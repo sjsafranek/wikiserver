@@ -1,0 +1,112 @@
+2019-06-28 22:41:17 [DEBUG] [PID-11725] database.go MakeTables:45 create database tables 
+2019-06-28 22:44:45 [DEBUG] [PID-13578] database.go MakeTables:45 create database tables 
+2019-06-28 22:55:42 [DEBUG] [PID-15073] database.go MakeTables:45 create database tables 
+2019-06-29 11:31:26 [DEBUG] [PID-29926] database.go MakeTables:45 create database tables 
+2019-06-29 11:36:51 [DEBUG] [PID-31669] database.go MakeTables:45 create database tables 
+2019-06-29 11:38:46 [DEBUG] [PID-32372] database.go MakeTables:45 create database tables 
+2019-06-29 11:41:09 [DEBUG] [PID-1393] database.go MakeTables:45 create database tables 
+2019-06-29 11:42:25 [DEBUG] [PID-2509] database.go MakeTables:45 create database tables 
+2019-06-29 11:44:48 [DEBUG] [PID-4467] database.go MakeTables:45 create database tables 
+2019-06-29 11:45:50 [DEBUG] [PID-5065] database.go MakeTables:45 create database tables 
+2019-06-29 11:55:49 [DEBUG] [PID-7478] database.go MakeTables:45 create database tables 
+2019-06-29 12:01:12 [DEBUG] [PID-9417] database.go MakeTables:45 create database tables 
+2019-06-29 12:01:53 [DEBUG] [PID-9877] database.go MakeTables:45 create database tables 
+2019-06-29 12:03:15 [DEBUG] [PID-10315] database.go MakeTables:45 create database tables 
+2019-06-29 12:03:40 [DEBUG] [PID-10695] database.go MakeTables:45 create database tables 
+2019-06-29 12:07:40 [DEBUG] [PID-12541] database.go MakeTables:45 create database tables 
+2019-06-29 12:09:01 [DEBUG] [PID-13341] database.go MakeTables:45 create database tables 
+2019-06-29 12:09:33 [DEBUG] [PID-13814] database.go MakeTables:45 create database tables 
+2019-06-29 12:09:42 [DEBUG] [PID-13934] database.go MakeTables:45 create database tables 
+2019-06-29 12:11:59 [DEBUG] [PID-15342] database.go MakeTables:45 create database tables 
+2019-06-29 12:12:41 [DEBUG] [PID-15839] database.go MakeTables:45 create database tables 
+2019-06-29 12:13:22 [DEBUG] [PID-16428] database.go MakeTables:45 create database tables 
+2019-06-29 12:13:56 [DEBUG] [PID-16864] database.go MakeTables:45 create database tables 
+2019-06-29 12:14:44 [DEBUG] [PID-17183] database.go MakeTables:45 create database tables 
+2019-06-29 12:15:48 [DEBUG] [PID-17655] database.go MakeTables:45 create database tables 
+2019-06-29 12:30:21 [DEBUG] [PID-25399] database.go MakeTables:45 create database tables 
+2019-06-29 12:51:07 [DEBUG] [PID-3148] database.go MakeTables:45 create database tables 
+2019-06-29 12:53:36 [DEBUG] [PID-3894] database.go MakeTables:45 create database tables 
+2019-06-29 12:54:06 [DEBUG] [PID-4214] database.go MakeTables:45 create database tables 
+2019-06-29 12:55:21 [DEBUG] [PID-4441] database.go MakeTables:45 create database tables 
+2019-06-29 12:57:32 [DEBUG] [PID-5220] database.go MakeTables:45 create database tables 
+2019-06-29 13:01:32 [DEBUG] [PID-6983] database.go MakeTables:45 create database tables 
+2019-06-29 13:03:39 [DEBUG] [PID-8436] database.go MakeTables:45 create database tables 
+2019-06-29 13:06:47 [DEBUG] [PID-10009] database.go MakeTables:45 create database tables 
+2019-06-29 14:11:09 [DEBUG] [PID-13224] database.go MakeTables:45 create database tables 
+2019-06-29 14:14:54 [DEBUG] [PID-14757] database.go MakeTables:45 create database tables 
+2019-06-29 14:15:32 [DEBUG] [PID-14995] database.go MakeTables:45 create database tables 
+2019-06-29 14:19:08 [DEBUG] [PID-17802] database.go MakeTables:45 create database tables 
+2019-06-29 14:19:50 [DEBUG] [PID-18249] database.go MakeTables:45 create database tables 
+2019-06-29 14:21:30 [DEBUG] [PID-19962] database.go MakeTables:45 create database tables 
+2019-06-29 14:41:24 [DEBUG] [PID-32724] database.go MakeTables:45 create database tables 
+2019-06-30 12:29:03 [DEBUG] [PID-25118] database.go MakeTables:45 create database tables 
+2019-06-30 12:45:53 [DEBUG] [PID-31333] database.go MakeTables:45 create database tables 
+2019-06-30 12:46:56 [DEBUG] [PID-31651] database.go MakeTables:45 create database tables 
+2019-06-30 12:47:30 [DEBUG] [PID-31999] database.go MakeTables:45 create database tables 
+2019-06-30 12:55:46 [DEBUG] [PID-5523] database.go MakeTables:45 create database tables 
+2019-06-30 12:59:21 [DEBUG] [PID-7305] database.go MakeTables:45 create database tables 
+2019-06-30 13:05:22 [DEBUG] [PID-11461] database.go MakeTables:45 create database tables 
+2019-06-30 13:08:03 [DEBUG] [PID-13325] database.go MakeTables:45 create database tables 
+2019-06-30 13:11:28 [DEBUG] [PID-15436] database.go MakeTables:45 create database tables 
+2019-06-30 13:11:29 [DEBUG] [PID-15436] database.go GetAsset:51 get asset from databasepagepage/test 
+2019-06-30 13:11:55 [DEBUG] [PID-16031] database.go MakeTables:45 create database tables 
+2019-06-30 13:12:04 [DEBUG] [PID-16258] database.go MakeTables:45 create database tables 
+2019-06-30 13:12:05 [TRACE] [PID-16258] database.go GetAsset:51 get asset from database: page page/test 
+2019-06-30 13:13:44 [DEBUG] [PID-17239] database.go MakeTables:45 create database tables 
+2019-06-30 13:13:49 [TRACE] [PID-17239] database.go GetAsset:51 get asset from database: page page/test 
+2019-06-30 13:13:55 [TRACE] [PID-17239] database.go DeleteAsset:84 delete asset from database: page page/test 
+2019-06-30 13:14:00 [TRACE] [PID-17239] database.go GetAsset:51 get asset from database: page page/test 
+2019-06-30 13:14:00 [ERROR] [PID-17239] database.go GetAsset:62 sql: no rows in result set 
+2019-06-30 13:14:07 [TRACE] [PID-17239] database.go SaveAsset:70 save asset from database: page page/test 
+2019-06-30 13:14:14 [TRACE] [PID-17239] database.go SaveAsset:70 save asset from database: page page/test 
+2019-06-30 13:14:14 [ERROR] [PID-17239] database.go execWriteQuery:107 UNIQUE constraint failed: assets.path 
+2019-06-30 13:14:14 [TRACE] [PID-17239] database.go UpdateAsset:79 update asset from database: page page/test 
+2019-06-30 13:32:30 [ERROR] [PID-27598] database.go buildCache:59 no such column: type 
+2019-06-30 13:32:30 [DEBUG] [PID-27598] database.go MakeTables:78 create database tables 
+2019-06-30 13:32:45 [ERROR] [PID-27812] database.go buildCache:69 sql: Scan error on column index 0, name "type": converting driver.Value type string ("file") to a int: invalid syntax 
+2019-06-30 13:32:45 [DEBUG] [PID-27812] database.go MakeTables:78 create database tables 
+2019-06-30 13:33:08 [INFO] [PID-28122] database.go buildCache:63 filefile/test 
+2019-06-30 13:33:08 [INFO] [PID-28122] database.go buildCache:63 pagepage 
+2019-06-30 13:33:08 [INFO] [PID-28122] database.go buildCache:63 filefile/hello.js 
+2019-06-30 13:33:08 [INFO] [PID-28122] database.go buildCache:63 pagepage/hello.html 
+2019-06-30 13:33:08 [INFO] [PID-28122] database.go buildCache:63 pagepage/test 
+2019-06-30 13:33:08 [DEBUG] [PID-28122] database.go MakeTables:78 create database tables 
+2019-06-30 13:34:24 [INFO] [PID-29193] database.go buildCache:66 filefile/test 
+2019-06-30 13:34:24 [INFO] [PID-29193] database.go buildCache:66 pagepage 
+2019-06-30 13:34:24 [INFO] [PID-29193] database.go buildCache:66 filefile/hello.js 
+2019-06-30 13:34:24 [INFO] [PID-29193] database.go buildCache:66 pagepage/hello.html 
+2019-06-30 13:34:24 [INFO] [PID-29193] database.go buildCache:66 pagepage/test 
+2019-06-30 13:34:24 [DEBUG] [PID-29193] database.go MakeTables:76 create database tables 
+2019-06-30 13:35:14 [INFO] [PID-30158] database.go buildCache:73 map[page:map[page:true page/hello.html:true page/test:true] file:map[file/test:true file/hello.js:true]] 
+2019-06-30 13:35:14 [DEBUG] [PID-30158] database.go MakeTables:79 create database tables 
+2019-06-30 13:41:25 [DEBUG] [PID-2571] database.go MakeTables:84 create database tables 
+2019-06-30 13:46:34 [DEBUG] [PID-6937] database.go MakeTables:90 create database tables 
+2019-06-30 13:46:40 [TRACE] [PID-6937] database.go GetAsset:96 get asset from database: page page/test 
+2019-06-30 13:46:43 [TRACE] [PID-6937] database.go SaveAsset:115 save asset from database: page page/test 
+2019-06-30 13:46:43 [INFO] [PID-6937] database.go SaveAsset:116 true 
+2019-06-30 13:46:43 [ERROR] [PID-6937] database.go execWriteQuery:153 UNIQUE constraint failed: assets.path 
+2019-06-30 13:46:43 [TRACE] [PID-6937] database.go UpdateAsset:125 update asset from database: page page/test 
+2019-06-30 14:02:25 [DEBUG] [PID-14769] database.go MakeTables:97 create database tables 
+2019-06-30 14:04:51 [DEBUG] [PID-15994] database.go MakeTables:97 create database tables 
+2019-06-30 14:06:05 [DEBUG] [PID-16685] database.go MakeTables:97 create database tables 
+2019-06-30 14:06:28 [DEBUG] [PID-16981] database.go MakeTables:97 create database tables 
+2019-06-30 14:11:05 [DEBUG] [PID-19733] database.go MakeTables:97 create database tables 
+2019-06-30 14:14:24 [DEBUG] [PID-22507] database.go MakeTables:97 create database tables 
+2019-06-30 14:15:55 [DEBUG] [PID-23771] database.go MakeTables:97 create database tables 
+2019-06-30 14:17:40 [DEBUG] [PID-25306] database.go MakeTables:97 create database tables 
+2019-06-30 14:31:16 [DEBUG] [PID-30785] database.go MakeTables:97 create database tables 
+2019-07-01 11:47:11 [DEBUG] [PID-7165] database.go MakeTables:99 create database tables 
+2019-07-01 11:47:24 [TRACE] [PID-7165] item.go GetAsset:75 get asset from cache: page page/test 
+2019-07-01 11:47:27 [TRACE] [PID-7165] item.go GetAsset:75 get asset from cache: page page/test 
+2019-07-01 17:01:27 [DEBUG] [PID-25925] database.go MakeTables:73 create database tables 
+2019-07-01 17:01:36 [DEBUG] [PID-26032] database.go MakeTables:73 create database tables 
+2019-07-01 17:01:41 [TRACE] [PID-26032] item.go GetAsset:75 got asset from cache: page page/test 
+2019-07-01 17:01:48 [TRACE] [PID-26032] item.go GetAsset:75 got asset from cache: page page/test 
+2019-07-01 17:01:55 [TRACE] [PID-26032] item.go GetAsset:75 got asset from cache: page page/test 
+2019-07-01 17:01:55 [TRACE] [PID-26032] item.go GetAsset:75 got asset from cache: page page/test 
+2019-07-01 17:02:05 [DEBUG] [PID-26240] database.go MakeTables:73 create database tables 
+2019-07-01 17:02:08 [TRACE] [PID-26240] item.go GetAsset:75 got asset from cache: page page/test 
+2019-07-01 17:02:14 [TRACE] [PID-26240] item.go GetAsset:75 got asset from cache: page page/test 
+2019-07-01 17:03:29 [DEBUG] [PID-26485] database.go MakeTables:73 create database tables 
+2019-07-01 17:03:35 [TRACE] [PID-26485] item.go GetAsset:75 got asset from cache: page page/test 
+2019-07-01 17:03:37 [TRACE] [PID-26485] item.go GetAsset:75 got asset from cache: page page/test 

@@ -1,0 +1,2 @@
+2019-06-28 21:43:47 [INFO] [PID-17765] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 21:43:47 [INFO] [PID-17765] server.go ListenAndServe:42 Magic happens on port 8000 

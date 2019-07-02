@@ -1,0 +1,776 @@
+2019-06-28 21:46:53 [INFO] [PID-19497] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 21:46:53 [INFO] [PID-19497] server.go ListenAndServe:42 Magic happens on port 8000 
+2019-06-28 21:48:24 [INFO] [PID-20126] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 21:48:24 [INFO] [PID-20126] server.go ListenAndServe:42 Magic happens on port 8000 
+2019-06-28 21:49:41 [INFO] [PID-20817] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 21:49:41 [INFO] [PID-20817] server.go ListenAndServe:42 Magic happens on port 8000 
+2019-06-28 22:03:40 [INFO] [PID-26672] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:03:40 [INFO] [PID-26672] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:24:42 [INFO] [PID-3019] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:24:42 [INFO] [PID-3019] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:24:48 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52270 GET / 
+2019-06-28 22:24:48 [DEBUG] [PID-3019] middleware.go 1:59 Out [::1]:52270 GET / [200] 28.138µs - 15 bytes 
+2019-06-28 22:24:51 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52270 GET /test 
+2019-06-28 22:24:51 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52272 GET /test 
+2019-06-28 22:24:51 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52274 GET /test 
+2019-06-28 22:24:52 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52276 GET /test 
+2019-06-28 22:24:52 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52278 GET /test 
+2019-06-28 22:24:57 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52280 GET /test 
+2019-06-28 22:24:57 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52282 GET /test 
+2019-06-28 22:24:57 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52284 GET /test 
+2019-06-28 22:25:27 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52296 GET /test 
+2019-06-28 22:26:27 [DEBUG] [PID-3019] middleware.go 1:43  In [::1]:52302 GET /test 
+2019-06-28 22:27:42 [INFO] [PID-3642] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:27:42 [INFO] [PID-3642] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:27:45 [DEBUG] [PID-3642] middleware.go 1:43  In [::1]:52314 GET /test 
+2019-06-28 22:28:52 [INFO] [PID-4211] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:28:52 [INFO] [PID-4211] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:28:54 [DEBUG] [PID-4211] middleware.go 1:43  In [::1]:52318 GET /test 
+2019-06-28 22:30:03 [INFO] [PID-4477] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:30:03 [INFO] [PID-4477] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:30:06 [DEBUG] [PID-4477] middleware.go 1:43  In [::1]:52324 GET /test 
+2019-06-28 22:30:08 [DEBUG] [PID-4477] middleware.go 1:43  In [::1]:52326 GET /test 
+2019-06-28 22:30:08 [DEBUG] [PID-4477] middleware.go 1:43  In [::1]:52328 GET /test 
+2019-06-28 22:30:08 [DEBUG] [PID-4477] middleware.go 1:43  In [::1]:52330 GET /test 
+2019-06-28 22:31:57 [INFO] [PID-5214] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:31:57 [INFO] [PID-5214] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52336 GET /test 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52336 GET /test [200] 363.821µs - 4751 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52336 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52336 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [200] 3.500306ms - 1726 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52338 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52338 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [200] 144.256µs - 8542 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52340 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52340 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [200] 373.134µs - 394009 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52346 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52344 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52346 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js [200] 103.505µs - 14669 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52344 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js [200] 130.137µs - 6031 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52342 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52342 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [200] 154.58µs - 37349 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52336 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52336 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js [200] 127.839µs - 4933 bytes 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52338 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js 
+2019-06-28 22:32:00 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52338 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js [200] 117.893µs - 31194 bytes 
+2019-06-28 22:32:09 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52340 POST /test 
+2019-06-28 22:32:09 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52340 POST /test [200] 39.432µs - 15 bytes 
+2019-06-28 22:32:09 [DEBUG] [PID-5214] middleware.go 1:43  In [::1]:52340 GET /test 
+2019-06-28 22:32:09 [DEBUG] [PID-5214] middleware.go 1:59 Out [::1]:52340 GET /test [200] 118.656µs - 4751 bytes 
+2019-06-28 22:37:24 [INFO] [PID-9470] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:37:24 [INFO] [PID-9470] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52442 POST /test 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52442 POST /test [200] 166.23989ms - 15 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52442 GET /test 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52442 GET /test [200] 540.511µs - 4751 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52442 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52442 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [304] 81.175µs - 0 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52444 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52444 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [304] 68.681µs - 0 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52452 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52448 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52452 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js [304] 98.985µs - 0 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52446 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52448 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [304] 56.372µs - 0 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52446 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [304] 45.437µs - 0 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52450 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52450 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js [304] 448.858µs - 0 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52442 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:43  In [::1]:52444 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52444 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js [304] 34.265µs - 0 bytes 
+2019-06-28 22:37:28 [DEBUG] [PID-9470] middleware.go 1:59 Out [::1]:52442 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js [304] 65.373µs - 0 bytes 
+2019-06-28 22:38:11 [INFO] [PID-9860] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:38:11 [INFO] [PID-9860] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:38:13 [DEBUG] [PID-9860] middleware.go 1:43  In [::1]:52454 GET /test 
+2019-06-28 22:38:13 [DEBUG] [PID-9860] middleware.go 1:59 Out [::1]:52454 GET /test [200] 1.598238ms - 4755 bytes 
+2019-06-28 22:41:17 [INFO] [PID-11725] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:41:17 [INFO] [PID-11725] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52482 GET /test 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52482 GET /test [200] 438.449µs - 4755 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52482 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52484 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52482 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [304] 67.557µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52484 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [304] 72.431µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52486 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52486 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [304] 65.836µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52488 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52488 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [304] 103.389µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52488 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52484 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52488 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js [304] 65.597µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52484 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js [304] 30.799µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52482 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52486 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52486 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js [304] 172.776µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52482 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js [304] 27.331µs - 0 bytes 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52482 GET /test 
+2019-06-28 22:42:35 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52482 GET /test [200] 509.581µs - 4755 bytes 
+2019-06-28 22:42:36 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52482 GET /test 
+2019-06-28 22:42:36 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52482 GET /test [200] 1.061833ms - 4755 bytes 
+2019-06-28 22:43:24 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52482 POST /test 
+2019-06-28 22:43:24 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52482 POST /test [500] 247.734µs - 37 bytes 
+2019-06-28 22:43:25 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52482 POST /test 
+2019-06-28 22:43:26 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52486 POST /test 
+2019-06-28 22:43:48 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52484 POST /test 
+2019-06-28 22:43:56 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52488 GET /test/1 
+2019-06-28 22:43:56 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52488 GET /test/1 [200] 686.304µs - 4753 bytes 
+2019-06-28 22:44:02 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52488 POST /test/1 
+2019-06-28 22:44:07 [DEBUG] [PID-11725] middleware.go 1:43  In [::1]:52504 GET /test/1 
+2019-06-28 22:44:07 [DEBUG] [PID-11725] middleware.go 1:59 Out [::1]:52504 GET /test/1 [200] 516.977µs - 4753 bytes 
+2019-06-28 22:44:45 [INFO] [PID-13578] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:44:45 [INFO] [PID-13578] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:44:49 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 POST /test/1 
+2019-06-28 22:44:49 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 POST /test/1 [200] 99.816017ms - 15 bytes 
+2019-06-28 22:44:49 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 GET /test/1 
+2019-06-28 22:44:49 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 GET /test/1 [200] 486.011µs - 4757 bytes 
+2019-06-28 22:44:51 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 GET /test/1 
+2019-06-28 22:44:51 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 GET /test/1 [200] 206.286µs - 4757 bytes 
+2019-06-28 22:44:54 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 POST /test/1 
+2019-06-28 22:44:54 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 POST /test/1 [500] 242.482µs - 37 bytes 
+2019-06-28 22:45:00 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 GET /test/1 
+2019-06-28 22:45:00 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 GET /test/1 [200] 2.115701ms - 4757 bytes 
+2019-06-28 22:45:01 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 GET /test/1 
+2019-06-28 22:45:01 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 GET /test/1 [200] 276.322µs - 4757 bytes 
+2019-06-28 22:45:05 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 POST /test/1 
+2019-06-28 22:45:05 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 POST /test/1 [500] 235.31µs - 37 bytes 
+2019-06-28 22:45:07 [DEBUG] [PID-13578] middleware.go 1:43  In [::1]:52516 GET /test/1 
+2019-06-28 22:45:07 [DEBUG] [PID-13578] middleware.go 1:59 Out [::1]:52516 GET /test/1 [200] 281.821µs - 4757 bytes 
+2019-06-28 22:55:42 [INFO] [PID-15073] server.go AttachHandler:31 Attaching HTTP handler for route: [GET] / 
+2019-06-28 22:55:42 [INFO] [PID-15073] server.go ListenAndServe:46 Magic happens on port 8000 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 GET /test/2 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 GET /test/2 [200] 1.103583ms - 4753 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [304] 69.039µs - 0 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [304] 60.714µs - 0 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52550 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52550 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [304] 83.665µs - 0 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52552 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52552 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [304] 94.303µs - 0 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52554 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52554 GET /static/codemirror/codemirror-5.43.0/mode/go/go.js [304] 55.861µs - 0 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52550 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52550 GET /static/codemirror/codemirror-5.43.0/mode/python/python.js [304] 68.207µs - 0 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52554 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52554 GET /static/codemirror/codemirror-5.43.0/mode/markdown/markdown.js [304] 133.435µs - 0 bytes 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js 
+2019-06-28 22:55:46 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 GET /static/codemirror/codemirror-5.43.0/mode/shell/shell.js [304] 293.183µs - 0 bytes 
+2019-06-28 22:57:33 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 DELETE /test/2 
+2019-06-28 22:57:33 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 DELETE /test/2 [200] 23.217µs - 15 bytes 
+2019-06-28 22:57:33 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 GET /test/2 
+2019-06-28 22:57:33 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 GET /test/2 [200] 238.991µs - 4753 bytes 
+2019-06-28 22:57:34 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 DELETE /test/2 
+2019-06-28 22:57:34 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 DELETE /test/2 [200] 26.782µs - 15 bytes 
+2019-06-28 22:57:34 [DEBUG] [PID-15073] middleware.go 1:43  In [::1]:52548 GET /test/2 
+2019-06-28 22:57:34 [DEBUG] [PID-15073] middleware.go 1:59 Out [::1]:52548 GET /test/2 [200] 519.788µs - 4753 bytes 
+2019-06-29 11:31:26 [INFO] [PID-29926] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:31:26 [INFO] [PID-29926] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53632 GET /test/2 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53632 GET /test/2 [200] 656.618µs - 4702 bytes 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53632 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53632 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [304] 89.957µs - 0 bytes 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53632 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53632 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js [200] 3.787428ms - 37655 bytes 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53634 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53634 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js [200] 162.986µs - 5622 bytes 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53638 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53638 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js [200] 80.294µs - 1721 bytes 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53640 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53640 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [304] 198.165µs - 0 bytes 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53644 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53644 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [304] 1.191298ms - 0 bytes 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53642 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-29 11:31:30 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53642 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [304] 2.202692ms - 0 bytes 
+2019-06-29 11:31:42 [DEBUG] [PID-29926] middleware.go 1:43  In [::1]:53642 GET /test/2.css 
+2019-06-29 11:31:42 [DEBUG] [PID-29926] middleware.go 1:59 Out [::1]:53642 GET /test/2.css [200] 276.012µs - 4706 bytes 
+2019-06-29 11:36:51 [INFO] [PID-31669] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:36:51 [INFO] [PID-31669] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:36:54 [DEBUG] [PID-31669] middleware.go 1:43  In [::1]:53676 POST /test/2.css 
+2019-06-29 11:36:54 [DEBUG] [PID-31669] middleware.go 1:59 Out [::1]:53676 POST /test/2.css [200] 108.132342ms - 15 bytes 
+2019-06-29 11:36:54 [DEBUG] [PID-31669] middleware.go 1:43  In [::1]:53676 GET /test/2.css 
+2019-06-29 11:36:54 [DEBUG] [PID-31669] middleware.go 1:59 Out [::1]:53676 GET /test/2.css [200] 420.77µs - 4710 bytes 
+2019-06-29 11:36:56 [DEBUG] [PID-31669] middleware.go 1:43  In [::1]:53676 GET /test/2.css 
+2019-06-29 11:36:56 [DEBUG] [PID-31669] middleware.go 1:59 Out [::1]:53676 GET /test/2.css [200] 271.258µs - 4710 bytes 
+2019-06-29 11:38:46 [INFO] [PID-32372] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:38:46 [INFO] [PID-32372] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:38:48 [DEBUG] [PID-32372] middleware.go 1:43  In [::1]:53694 GET /test/2.css 
+2019-06-29 11:38:48 [DEBUG] [PID-32372] middleware.go 1:59 Out [::1]:53694 GET /test/2.css [200] 240.334µs - 4 bytes 
+2019-06-29 11:41:09 [INFO] [PID-1393] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:41:09 [INFO] [PID-1393] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:41:10 [DEBUG] [PID-1393] middleware.go 1:43  In [::1]:53808 GET /test/2.css 
+2019-06-29 11:41:10 [DEBUG] [PID-1393] middleware.go 1:59 Out [::1]:53808 GET /test/2.css [200] 301.138µs - 4 bytes 
+2019-06-29 11:41:12 [DEBUG] [PID-1393] middleware.go 1:43  In [::1]:53808 GET /test/2.css 
+2019-06-29 11:41:12 [DEBUG] [PID-1393] middleware.go 1:59 Out [::1]:53808 GET /test/2.css [200] 723.977µs - 4 bytes 
+2019-06-29 11:41:13 [DEBUG] [PID-1393] middleware.go 1:43  In [::1]:53808 GET /test/2.css 
+2019-06-29 11:41:13 [DEBUG] [PID-1393] middleware.go 1:59 Out [::1]:53808 GET /test/2.css [200] 220.199µs - 4 bytes 
+2019-06-29 11:41:26 [DEBUG] [PID-1393] middleware.go 1:43  In [::1]:53808 GET /test/2.css?apikey=test 
+2019-06-29 11:41:26 [DEBUG] [PID-1393] middleware.go 1:59 Out [::1]:53808 GET /test/2.css?apikey=test [200] 166.349µs - 4 bytes 
+2019-06-29 11:41:35 [DEBUG] [PID-1393] middleware.go 1:43  In [::1]:53808 GET /test/2.css?apikey=TEST 
+2019-06-29 11:41:35 [DEBUG] [PID-1393] middleware.go 1:59 Out [::1]:53808 GET /test/2.css?apikey=TEST [200] 494.335µs - 4710 bytes 
+2019-06-29 11:42:25 [INFO] [PID-2509] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:42:25 [INFO] [PID-2509] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:42:27 [DEBUG] [PID-2509] middleware.go 1:43  In [::1]:53830 GET /test/2.css?apikey=TEST 
+2019-06-29 11:42:27 [DEBUG] [PID-2509] middleware.go 1:59 Out [::1]:53830 GET /test/2.css?apikey=TEST [200] 235.644µs - 4 bytes 
+2019-06-29 11:42:29 [DEBUG] [PID-2509] middleware.go 1:43  In [::1]:53830 GET /test/2.css?apikey=testing1234 
+2019-06-29 11:42:29 [DEBUG] [PID-2509] middleware.go 1:59 Out [::1]:53830 GET /test/2.css?apikey=testing1234 [200] 677.052µs - 4710 bytes 
+2019-06-29 11:42:42 [DEBUG] [PID-2509] middleware.go 1:43  In [::1]:53830 POST /test/2.css 
+2019-06-29 11:42:42 [DEBUG] [PID-2509] middleware.go 1:59 Out [::1]:53830 POST /test/2.css [500] 264.36µs - 37 bytes 
+2019-06-29 11:44:48 [INFO] [PID-4467] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:44:48 [INFO] [PID-4467] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:44:52 [DEBUG] [PID-4467] middleware.go 1:43  In [::1]:53854 POST /test/2.css 
+2019-06-29 11:44:52 [DEBUG] [PID-4467] middleware.go 1:59 Out [::1]:53854 POST /test/2.css [500] 398.207µs - 26 bytes 
+2019-06-29 11:45:50 [INFO] [PID-5065] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:45:50 [INFO] [PID-5065] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:45:52 [DEBUG] [PID-5065] middleware.go 1:43  In [::1]:53862 POST /test/2.css 
+2019-06-29 11:45:52 [DEBUG] [PID-5065] middleware.go 1:59 Out [::1]:53862 POST /test/2.css [200] 133.507384ms - 15 bytes 
+2019-06-29 11:45:52 [DEBUG] [PID-5065] middleware.go 1:43  In [::1]:53862 GET /test/2.css?apikey=testing1234 
+2019-06-29 11:45:52 [DEBUG] [PID-5065] middleware.go 1:59 Out [::1]:53862 GET /test/2.css?apikey=testing1234 [200] 425.765µs - 4714 bytes 
+2019-06-29 11:45:55 [DEBUG] [PID-5065] middleware.go 1:43  In [::1]:53862 POST /test/2.css 
+2019-06-29 11:45:55 [DEBUG] [PID-5065] middleware.go 1:59 Out [::1]:53862 POST /test/2.css [200] 122.885657ms - 15 bytes 
+2019-06-29 11:45:55 [DEBUG] [PID-5065] middleware.go 1:43  In [::1]:53862 GET /test/2.css?apikey=testing1234 
+2019-06-29 11:45:55 [DEBUG] [PID-5065] middleware.go 1:59 Out [::1]:53862 GET /test/2.css?apikey=testing1234 [200] 265.669µs - 4719 bytes 
+2019-06-29 11:46:00 [DEBUG] [PID-5065] middleware.go 1:43  In [::1]:53862 GET /test/2.css?apikey=testing1234 
+2019-06-29 11:46:00 [DEBUG] [PID-5065] middleware.go 1:59 Out [::1]:53862 GET /test/2.css?apikey=testing1234 [200] 193.104µs - 4719 bytes 
+2019-06-29 11:46:03 [DEBUG] [PID-5065] middleware.go 1:43  In [::1]:53862 GET /test/2.css?apikey=testing1234 
+2019-06-29 11:46:03 [DEBUG] [PID-5065] middleware.go 1:59 Out [::1]:53862 GET /test/2.css?apikey=testing1234 [200] 235.426µs - 4719 bytes 
+2019-06-29 11:55:49 [INFO] [PID-7478] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 11:55:49 [INFO] [PID-7478] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 11:56:03 [DEBUG] [PID-7478] middleware.go 1:43  In [::1]:53984 POST /test/2.css 
+2019-06-29 11:56:04 [DEBUG] [PID-7478] middleware.go 1:59 Out [::1]:53984 POST /test/2.css [200] 125.168468ms - 15 bytes 
+2019-06-29 11:56:04 [DEBUG] [PID-7478] middleware.go 1:43  In [::1]:53984 GET /test/2.css?apikey=testing1234 
+2019-06-29 11:56:04 [DEBUG] [PID-7478] middleware.go 1:59 Out [::1]:53984 GET /test/2.css?apikey=testing1234 [200] 524.698µs - 4726 bytes 
+2019-06-29 11:56:06 [DEBUG] [PID-7478] middleware.go 1:43  In [::1]:53984 GET /test/2.css?apikey=testing1234 
+2019-06-29 11:56:06 [DEBUG] [PID-7478] middleware.go 1:59 Out [::1]:53984 GET /test/2.css?apikey=testing1234 [200] 341.377µs - 4726 bytes 
+2019-06-29 12:01:12 [INFO] [PID-9417] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:01:12 [INFO] [PID-9417] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:01:14 [DEBUG] [PID-9417] middleware.go 1:43  In [::1]:54012 GET /test/2.css?apikey=testing1234 
+2019-06-29 12:01:14 [DEBUG] [PID-9417] middleware.go 1:59 Out [::1]:54012 GET /test/2.css?apikey=testing1234 [200] 684.45µs - 4726 bytes 
+2019-06-29 12:01:53 [INFO] [PID-9877] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:01:53 [INFO] [PID-9877] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:01:58 [DEBUG] [PID-9877] middleware.go 1:43  In [::1]:54022 GET /test/2.css?apikey=testing1234 
+2019-06-29 12:01:58 [DEBUG] [PID-9877] middleware.go 1:59 Out [::1]:54022 GET /test/2.css?apikey=testing1234 [200] 690.232µs - 4726 bytes 
+2019-06-29 12:02:02 [DEBUG] [PID-9877] middleware.go 1:43  In [::1]:54022 GET /edit/test 
+2019-06-29 12:02:02 [DEBUG] [PID-9877] middleware.go 1:59 Out [::1]:54022 GET /edit/test [200] 553.797µs - 0 bytes 
+2019-06-29 12:03:15 [INFO] [PID-10315] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:03:15 [INFO] [PID-10315] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:03:19 [DEBUG] [PID-10315] middleware.go 1:43  In [::1]:54038 GET /edit/file/test 
+2019-06-29 12:03:19 [DEBUG] [PID-10315] middleware.go 1:59 Out [::1]:54038 GET /edit/file/test [200] 314.277µs - 0 bytes 
+2019-06-29 12:03:40 [INFO] [PID-10695] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:03:40 [INFO] [PID-10695] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:03:42 [DEBUG] [PID-10695] middleware.go 1:43  In [::1]:54046 GET /edit/file/test 
+2019-06-29 12:03:42 [DEBUG] [PID-10695] middleware.go 1:59 Out [::1]:54046 GET /edit/file/test [200] 216.567µs - 0 bytes 
+2019-06-29 12:07:40 [INFO] [PID-12541] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:07:40 [INFO] [PID-12541] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:08:04 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54070 GET /edit/file/test 
+2019-06-29 12:08:04 [DEBUG] [PID-12541] middleware.go 1:59 Out [::1]:54070 GET /edit/file/test [200] 581.518µs - 4700 bytes 
+2019-06-29 12:08:07 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54070 POST /edit/file/test 
+2019-06-29 12:08:07 [DEBUG] [PID-12541] middleware.go 1:59 Out [::1]:54070 POST /edit/file/test [200] 109.228316ms - 15 bytes 
+2019-06-29 12:08:07 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54070 GET /edit/file/test 
+2019-06-29 12:08:07 [DEBUG] [PID-12541] middleware.go 1:59 Out [::1]:54070 GET /edit/file/test [200] 412.435µs - 4704 bytes 
+2019-06-29 12:08:10 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54070 GET /file/test 
+2019-06-29 12:08:10 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54072 GET /file/test 
+2019-06-29 12:08:10 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54080 GET /file/test 
+2019-06-29 12:08:11 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54084 GET /file/test 
+2019-06-29 12:08:13 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54086 GET /test 
+2019-06-29 12:08:13 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54088 GET /test 
+2019-06-29 12:08:13 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54090 GET /test 
+2019-06-29 12:08:18 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54092 GET /test 
+2019-06-29 12:08:18 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54094 GET /test 
+2019-06-29 12:08:18 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54100 GET /test 
+2019-06-29 12:08:48 [DEBUG] [PID-12541] middleware.go 1:43  In [::1]:54110 GET /test 
+2019-06-29 12:09:01 [INFO] [PID-13341] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:09:01 [INFO] [PID-13341] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:09:02 [DEBUG] [PID-13341] middleware.go 1:43  In [::1]:54122 GET /test 
+2019-06-29 12:09:02 [DEBUG] [PID-13341] middleware.go 1:59 Out [::1]:54122 GET /test [200] 271.057µs - 4 bytes 
+2019-06-29 12:09:33 [INFO] [PID-13814] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:09:33 [INFO] [PID-13814] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:09:36 [DEBUG] [PID-13814] middleware.go 1:43  In [::1]:54136 GET /test 
+2019-06-29 12:09:36 [DEBUG] [PID-13814] middleware.go 1:59 Out [::1]:54136 GET /test [200] 616.992µs - 4 bytes 
+2019-06-29 12:09:42 [INFO] [PID-13934] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:09:42 [INFO] [PID-13934] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:09:43 [DEBUG] [PID-13934] middleware.go 1:43  In [::1]:54140 GET /test 
+2019-06-29 12:09:43 [DEBUG] [PID-13934] middleware.go 1:59 Out [::1]:54140 GET /test [200] 199.179µs - 4 bytes 
+2019-06-29 12:09:48 [DEBUG] [PID-13934] middleware.go 1:43  In [::1]:54140 GET /file/test 
+2019-06-29 12:09:48 [DEBUG] [PID-13934] middleware.go 1:59 Out [::1]:54140 GET /file/test [200] 207.177µs - 0 bytes 
+2019-06-29 12:11:59 [INFO] [PID-15342] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:11:59 [INFO] [PID-15342] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:12:01 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54150 GET /file/test 
+2019-06-29 12:12:01 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54152 GET /file/test 
+2019-06-29 12:12:01 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54154 GET /file/test 
+2019-06-29 12:12:06 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54156 GET /file/test 
+2019-06-29 12:12:06 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54158 GET /file/test 
+2019-06-29 12:12:06 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54162 GET /file/test 
+2019-06-29 12:12:36 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54166 GET /file/test 
+2019-06-29 12:12:36 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54168 GET /file/test 
+2019-06-29 12:12:36 [DEBUG] [PID-15342] middleware.go 1:43  In [::1]:54170 GET /file/test 
+2019-06-29 12:12:41 [INFO] [PID-15839] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:12:41 [INFO] [PID-15839] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:12:42 [DEBUG] [PID-15839] middleware.go 1:43  In [::1]:54172 GET /file/test 
+2019-06-29 12:13:22 [INFO] [PID-16428] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:13:22 [INFO] [PID-16428] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:13:23 [DEBUG] [PID-16428] middleware.go 1:43  In [::1]:54178 GET /file/test 
+2019-06-29 12:13:56 [INFO] [PID-16864] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:13:56 [INFO] [PID-16864] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:13:57 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /file/test 
+2019-06-29 12:13:57 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /file/test [200] 385.492µs - 0 bytes 
+2019-06-29 12:13:59 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /file/test 
+2019-06-29 12:13:59 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /file/test [200] 197.752µs - 0 bytes 
+2019-06-29 12:14:04 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /edit/file/test 
+2019-06-29 12:14:04 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /edit/file/test [200] 496.453µs - 4705 bytes 
+2019-06-29 12:14:07 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 POST /edit/file/test 
+2019-06-29 12:14:08 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 POST /edit/file/test [200] 83.348643ms - 15 bytes 
+2019-06-29 12:14:08 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /edit/file/test 
+2019-06-29 12:14:08 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /edit/file/test [200] 560.795µs - 4709 bytes 
+2019-06-29 12:14:10 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /file/test 
+2019-06-29 12:14:10 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /file/test [200] 243.854µs - 8 bytes 
+2019-06-29 12:14:15 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /edit/file/test 
+2019-06-29 12:14:15 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /edit/file/test [200] 306.411µs - 4709 bytes 
+2019-06-29 12:14:19 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 POST /edit/file/test 
+2019-06-29 12:14:19 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 POST /edit/file/test [200] 134.115504ms - 15 bytes 
+2019-06-29 12:14:19 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /edit/file/test 
+2019-06-29 12:14:19 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /edit/file/test [200] 305.68µs - 4713 bytes 
+2019-06-29 12:14:22 [DEBUG] [PID-16864] middleware.go 1:43  In [::1]:54190 GET /file/test 
+2019-06-29 12:14:22 [DEBUG] [PID-16864] middleware.go 1:59 Out [::1]:54190 GET /file/test [200] 252.773µs - 16 bytes 
+2019-06-29 12:14:44 [INFO] [PID-17183] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:14:44 [INFO] [PID-17183] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:14:45 [DEBUG] [PID-17183] middleware.go 1:43  In [::1]:54210 GET /file/test 
+2019-06-29 12:14:45 [DEBUG] [PID-17183] middleware.go 1:59 Out [::1]:54210 GET /file/test [200] 257.713µs - 8 bytes 
+2019-06-29 12:14:45 [DEBUG] [PID-17183] middleware.go 1:43  In [::1]:54210 GET /file/test 
+2019-06-29 12:14:45 [DEBUG] [PID-17183] middleware.go 1:59 Out [::1]:54210 GET /file/test [200] 184.036µs - 8 bytes 
+2019-06-29 12:15:48 [INFO] [PID-17655] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:15:48 [INFO] [PID-17655] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:15:49 [DEBUG] [PID-17655] middleware.go 1:43  In [::1]:54218 GET /file/test 
+2019-06-29 12:15:49 [DEBUG] [PID-17655] middleware.go 1:59 Out [::1]:54218 GET /file/test [200] 315.2µs - 8 bytes 
+2019-06-29 12:16:38 [DEBUG] [PID-17655] middleware.go 1:43  In [::1]:54218 GET / 
+2019-06-29 12:16:38 [DEBUG] [PID-17655] middleware.go 1:59 Out [::1]:54218 GET / [200] 23.796µs - 15 bytes 
+2019-06-29 12:16:43 [DEBUG] [PID-17655] middleware.go 1:43  In [::1]:54218 GET /edit/file/test 
+2019-06-29 12:16:43 [DEBUG] [PID-17655] middleware.go 1:59 Out [::1]:54218 GET /edit/file/test [200] 808.744µs - 4713 bytes 
+2019-06-29 12:22:08 [DEBUG] [PID-17655] middleware.go 1:43  In [::1]:54266 POST /edit/file/test 
+2019-06-29 12:22:08 [DEBUG] [PID-17655] middleware.go 1:59 Out [::1]:54266 POST /edit/file/test [200] 125.537304ms - 15 bytes 
+2019-06-29 12:22:08 [DEBUG] [PID-17655] middleware.go 1:43  In [::1]:54266 GET /edit/file/test 
+2019-06-29 12:22:08 [DEBUG] [PID-17655] middleware.go 1:59 Out [::1]:54266 GET /edit/file/test [200] 623.412µs - 4793 bytes 
+2019-06-29 12:22:10 [DEBUG] [PID-17655] middleware.go 1:43  In [::1]:54266 GET /file/test 
+2019-06-29 12:22:10 [DEBUG] [PID-17655] middleware.go 1:59 Out [::1]:54266 GET /file/test [200] 539.052µs - 52 bytes 
+2019-06-29 12:30:21 [INFO] [PID-25399] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:30:21 [INFO] [PID-25399] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:51:07 [INFO] [PID-3148] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:51:07 [INFO] [PID-3148] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:51:12 [DEBUG] [PID-3148] middleware.go 1:43  In [::1]:54440 GET /edit/page/test 
+2019-06-29 12:51:12 [DEBUG] [PID-3148] middleware.go 1:59 Out [::1]:54440 GET /edit/page/test [200] 497.193µs - 3375 bytes 
+2019-06-29 12:51:19 [DEBUG] [PID-3148] middleware.go 1:43  In [::1]:54440 POST /edit/page/test 
+2019-06-29 12:51:19 [DEBUG] [PID-3148] middleware.go 1:59 Out [::1]:54440 POST /edit/page/test [500] 304.256µs - 21 bytes 
+2019-06-29 12:53:36 [INFO] [PID-3894] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:53:36 [INFO] [PID-3894] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:53:39 [DEBUG] [PID-3894] middleware.go 1:43  In [::1]:54464 POST /edit/page/test 
+2019-06-29 12:53:39 [DEBUG] [PID-3894] middleware.go 1:59 Out [::1]:54464 POST /edit/page/test [200] 318.643µs - 15 bytes 
+2019-06-29 12:53:39 [DEBUG] [PID-3894] middleware.go 1:43  In [::1]:54464 GET /edit/page/test 
+2019-06-29 12:53:39 [DEBUG] [PID-3894] middleware.go 1:59 Out [::1]:54464 GET /edit/page/test [200] 434.23µs - 3375 bytes 
+2019-06-29 12:54:06 [INFO] [PID-4214] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:54:06 [INFO] [PID-4214] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:54:10 [DEBUG] [PID-4214] middleware.go 1:43  In [::1]:54468 POST /edit/page/test 
+2019-06-29 12:54:10 [DEBUG] [PID-4214] middleware.go 1:59 Out [::1]:54468 POST /edit/page/test [200] 357.206µs - 15 bytes 
+2019-06-29 12:54:10 [DEBUG] [PID-4214] middleware.go 1:43  In [::1]:54468 GET /edit/page/test 
+2019-06-29 12:54:10 [DEBUG] [PID-4214] middleware.go 1:59 Out [::1]:54468 GET /edit/page/test [200] 735.785µs - 3375 bytes 
+2019-06-29 12:55:21 [INFO] [PID-4441] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:55:21 [INFO] [PID-4441] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:55:25 [DEBUG] [PID-4441] middleware.go 1:43  In [::1]:54476 POST /edit/page/test 
+2019-06-29 12:55:25 [DEBUG] [PID-4441] middleware.go 1:59 Out [::1]:54476 POST /edit/page/test [200] 462.404µs - 15 bytes 
+2019-06-29 12:55:25 [DEBUG] [PID-4441] middleware.go 1:43  In [::1]:54476 GET /edit/page/test 
+2019-06-29 12:55:25 [DEBUG] [PID-4441] middleware.go 1:59 Out [::1]:54476 GET /edit/page/test [200] 363.571µs - 3347 bytes 
+2019-06-29 12:56:41 [DEBUG] [PID-4441] middleware.go 1:43  In [::1]:54476 POST /edit/page/test 
+2019-06-29 12:56:41 [DEBUG] [PID-4441] middleware.go 1:59 Out [::1]:54476 POST /edit/page/test [200] 219.555µs - 15 bytes 
+2019-06-29 12:57:32 [INFO] [PID-5220] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 12:57:32 [INFO] [PID-5220] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 12:57:34 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /edit/page/test 
+2019-06-29 12:57:34 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /edit/page/test [200] 407.154µs - 3347 bytes 
+2019-06-29 12:57:34 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /edit/page/test 
+2019-06-29 12:57:34 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /edit/page/test [200] 270.245µs - 3347 bytes 
+2019-06-29 12:57:39 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 POST /edit/page/test 
+2019-06-29 12:57:39 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 POST /edit/page/test [200] 273.324µs - 15 bytes 
+2019-06-29 12:58:48 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /edit/file/test 
+2019-06-29 12:58:48 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /edit/file/test [200] 400.971µs - 4705 bytes 
+2019-06-29 12:58:48 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /edit/page/test 
+2019-06-29 12:58:48 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /edit/page/test [200] 233.085µs - 3347 bytes 
+2019-06-29 12:58:50 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /edit/page/test 
+2019-06-29 12:58:50 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /edit/page/test [200] 190.326µs - 3347 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /edit/file/test 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /edit/file/test [200] 327.417µs - 4705 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [304] 139.968µs - 0 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [304] 60.004µs - 0 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [304] 64.127µs - 0 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [304] 69.191µs - 0 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55226 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55226 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js [304] 74.526µs - 0 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55874 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55874 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js [304] 73.936µs - 0 bytes 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55824 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js 
+2019-06-29 12:58:53 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55824 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js [304] 55.703µs - 0 bytes 
+2019-06-29 12:58:55 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55824 POST /edit/file/test 
+2019-06-29 12:58:55 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55824 POST /edit/file/test [200] 284.249µs - 15 bytes 
+2019-06-29 12:58:55 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55824 GET /edit/file/test 
+2019-06-29 12:58:55 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55824 GET /edit/file/test [200] 224.076µs - 4705 bytes 
+2019-06-29 12:58:58 [DEBUG] [PID-5220] middleware.go 1:43  In [::1]:55824 GET /edit/file/test 
+2019-06-29 12:58:58 [DEBUG] [PID-5220] middleware.go 1:59 Out [::1]:55824 GET /edit/file/test [200] 321.39µs - 4705 bytes 
+2019-06-29 13:01:32 [INFO] [PID-6983] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 13:01:32 [INFO] [PID-6983] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 13:01:35 [DEBUG] [PID-6983] middleware.go 1:43  In [::1]:57168 POST /edit/file/test 
+2019-06-29 13:01:35 [DEBUG] [PID-6983] middleware.go 1:59 Out [::1]:57168 POST /edit/file/test [200] 639.26µs - 15 bytes 
+2019-06-29 13:01:35 [DEBUG] [PID-6983] middleware.go 1:43  In [::1]:57168 GET /edit/file/test 
+2019-06-29 13:01:35 [DEBUG] [PID-6983] middleware.go 1:59 Out [::1]:57168 GET /edit/file/test [200] 610.589µs - 4705 bytes 
+2019-06-29 13:03:39 [INFO] [PID-8436] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 13:03:39 [INFO] [PID-8436] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 13:03:41 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 POST /edit/file/test 
+2019-06-29 13:03:42 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 POST /edit/file/test [200] 126.739521ms - 15 bytes 
+2019-06-29 13:03:42 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 GET /edit/file/test 
+2019-06-29 13:03:42 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 GET /edit/file/test [200] 473.773µs - 4709 bytes 
+2019-06-29 13:03:44 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 GET /file/test 
+2019-06-29 13:03:44 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 GET /file/test [200] 209.298µs - 4 bytes 
+2019-06-29 13:03:47 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 GET /page/test 
+2019-06-29 13:03:47 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 GET /page/test [200] 168.931µs - 0 bytes 
+2019-06-29 13:03:53 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 GET /edit/page/test 
+2019-06-29 13:03:53 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 GET /edit/page/test [200] 337.66µs - 3347 bytes 
+2019-06-29 13:03:59 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 POST /edit/page/test 
+2019-06-29 13:03:59 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 POST /edit/page/test [200] 63.413012ms - 15 bytes 
+2019-06-29 13:04:05 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 GET /edit/page/test 
+2019-06-29 13:04:05 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 GET /edit/page/test [200] 224.74µs - 3382 bytes 
+2019-06-29 13:05:02 [DEBUG] [PID-8436] middleware.go 1:43  In [::1]:58190 GET /page/test 
+2019-06-29 13:05:02 [DEBUG] [PID-8436] middleware.go 1:59 Out [::1]:58190 GET /page/test [200] 169.356µs - 7 bytes 
+2019-06-29 13:06:47 [INFO] [PID-10009] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 13:06:47 [INFO] [PID-10009] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 13:06:48 [DEBUG] [PID-10009] middleware.go 1:43  In [::1]:59714 GET /page/test 
+2019-06-29 13:06:48 [DEBUG] [PID-10009] middleware.go 1:59 Out [::1]:59714 GET /page/test [200] 662.248µs - 1695 bytes 
+2019-06-29 14:11:09 [INFO] [PID-13224] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 14:11:09 [INFO] [PID-13224] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 14:11:12 [DEBUG] [PID-13224] middleware.go 1:43  In [::1]:39694 GET /page/test 
+2019-06-29 14:11:12 [DEBUG] [PID-13224] middleware.go 1:59 Out [::1]:39694 GET /page/test [200] 351.439µs - 1695 bytes 
+2019-06-29 14:11:17 [DEBUG] [PID-13224] middleware.go 1:43  In [::1]:39694 GET /edit/page/test 
+2019-06-29 14:11:17 [DEBUG] [PID-13224] middleware.go 1:59 Out [::1]:39694 GET /edit/page/test [200] 494.854µs - 4712 bytes 
+2019-06-29 14:14:54 [INFO] [PID-14757] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 14:14:54 [INFO] [PID-14757] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 14:14:58 [DEBUG] [PID-14757] middleware.go 1:43  In [::1]:41590 GET /edit/page/test 
+2019-06-29 14:14:58 [DEBUG] [PID-14757] middleware.go 1:59 Out [::1]:41590 GET /edit/page/test [200] 795.706µs - 4712 bytes 
+2019-06-29 14:15:09 [DEBUG] [PID-14757] middleware.go 1:43  In [::1]:41590 GET /test/edit/page/test 
+2019-06-29 14:15:09 [DEBUG] [PID-14757] middleware.go 1:59 Out [::1]:41590 GET /test/edit/page/test [200] 70.836µs - 38 bytes 
+2019-06-29 14:15:32 [INFO] [PID-14995] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 14:15:32 [INFO] [PID-14995] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 14:15:34 [DEBUG] [PID-14995] middleware.go 1:43  In [::1]:41944 GET /edit/page/test 
+2019-06-29 14:15:34 [DEBUG] [PID-14995] middleware.go 1:59 Out [::1]:41944 GET /edit/page/test [200] 677.878µs - 4712 bytes 
+2019-06-29 14:15:40 [DEBUG] [PID-14995] middleware.go 1:43  In [::1]:41944 GET /test/edit/page/test 
+2019-06-29 14:15:40 [DEBUG] [PID-14995] middleware.go 1:59 Out [::1]:41944 GET /test/edit/page/test [200] 318.295µs - 38 bytes 
+2019-06-29 14:18:19 [DEBUG] [PID-14995] middleware.go 1:43  In [::1]:41944 GET /test/edit/page/test 
+2019-06-29 14:18:19 [DEBUG] [PID-14995] middleware.go 1:59 Out [::1]:41944 GET /test/edit/page/test [200] 236.183µs - 38 bytes 
+2019-06-29 14:18:21 [DEBUG] [PID-14995] middleware.go 1:43  In [::1]:41944 GET /edit/page/test 
+2019-06-29 14:18:21 [DEBUG] [PID-14995] middleware.go 1:59 Out [::1]:41944 GET /edit/page/test [200] 357.116µs - 4712 bytes 
+2019-06-29 14:18:25 [DEBUG] [PID-14995] middleware.go 1:43  In [::1]:41944 GET /edit/file/test 
+2019-06-29 14:18:25 [DEBUG] [PID-14995] middleware.go 1:59 Out [::1]:41944 GET /edit/file/test [200] 678.769µs - 3363 bytes 
+2019-06-29 14:18:31 [DEBUG] [PID-14995] middleware.go 1:43  In [::1]:41944 GET /edit/page/test 
+2019-06-29 14:18:31 [DEBUG] [PID-14995] middleware.go 1:59 Out [::1]:41944 GET /edit/page/test [200] 647.853µs - 4712 bytes 
+2019-06-29 14:19:08 [INFO] [PID-17802] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 14:19:08 [INFO] [PID-17802] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 14:19:09 [DEBUG] [PID-17802] middleware.go 1:43  In [::1]:43680 GET /edit/page/test 
+2019-06-29 14:19:09 [DEBUG] [PID-17802] middleware.go 1:59 Out [::1]:43680 GET /edit/page/test [200] 576.514µs - 4712 bytes 
+2019-06-29 14:19:13 [DEBUG] [PID-17802] middleware.go 1:43  In [::1]:43680 GET /edit/file/test 
+2019-06-29 14:19:13 [DEBUG] [PID-17802] middleware.go 1:59 Out [::1]:43680 GET /edit/file/test [200] 383.951µs - 3363 bytes 
+2019-06-29 14:19:50 [INFO] [PID-18249] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 14:19:50 [INFO] [PID-18249] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 14:19:52 [DEBUG] [PID-18249] middleware.go 1:43  In [::1]:44038 GET /edit/file/test 
+2019-06-29 14:19:52 [DEBUG] [PID-18249] middleware.go 1:59 Out [::1]:44038 GET /edit/file/test [200] 570.232µs - 4709 bytes 
+2019-06-29 14:19:55 [DEBUG] [PID-18249] middleware.go 1:43  In [::1]:44038 GET /edit/page/test 
+2019-06-29 14:19:55 [DEBUG] [PID-18249] middleware.go 1:59 Out [::1]:44038 GET /edit/page/test [200] 597.889µs - 3382 bytes 
+2019-06-29 14:20:06 [DEBUG] [PID-18249] middleware.go 1:43  In [::1]:44038 GET /page/test 
+2019-06-29 14:20:06 [DEBUG] [PID-18249] middleware.go 1:59 Out [::1]:44038 GET /page/test [200] 321.874µs - 1695 bytes 
+2019-06-29 14:21:30 [INFO] [PID-19962] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 14:21:30 [INFO] [PID-19962] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 14:21:31 [DEBUG] [PID-19962] middleware.go 1:43  In [::1]:44860 GET /page/test 
+2019-06-29 14:21:31 [DEBUG] [PID-19962] middleware.go 1:59 Out [::1]:44860 GET /page/test [200] 417.306µs - 1695 bytes 
+2019-06-29 14:21:34 [DEBUG] [PID-19962] middleware.go 1:43  In [::1]:44860 GET /page/test 
+2019-06-29 14:21:34 [DEBUG] [PID-19962] middleware.go 1:59 Out [::1]:44860 GET /page/test [200] 374.153µs - 1695 bytes 
+2019-06-29 14:21:37 [DEBUG] [PID-19962] middleware.go 1:43  In [::1]:44860 GET /edit/page/test 
+2019-06-29 14:21:37 [DEBUG] [PID-19962] middleware.go 1:59 Out [::1]:44860 GET /edit/page/test [200] 373.382µs - 3342 bytes 
+2019-06-29 14:21:39 [DEBUG] [PID-19962] middleware.go 1:43  In [::1]:44860 GET /edit/file/test 
+2019-06-29 14:21:39 [DEBUG] [PID-19962] middleware.go 1:59 Out [::1]:44860 GET /edit/file/test [200] 415.849µs - 4709 bytes 
+2019-06-29 14:21:42 [DEBUG] [PID-19962] middleware.go 1:43  In [::1]:44860 GET /file/test 
+2019-06-29 14:21:42 [DEBUG] [PID-19962] middleware.go 1:59 Out [::1]:44860 GET /file/test [200] 344.353µs - 4 bytes 
+2019-06-29 14:41:24 [INFO] [PID-32724] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-29 14:41:24 [INFO] [PID-32724] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-29 14:41:30 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /test 
+2019-06-29 14:41:30 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /test [404] 198.628µs - 38 bytes 
+2019-06-29 14:41:55 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /test 
+2019-06-29 14:41:55 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /test [404] 116.98µs - 38 bytes 
+2019-06-29 14:42:00 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /test 
+2019-06-29 14:42:00 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /test [404] 109.673µs - 38 bytes 
+2019-06-29 14:42:01 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /test 
+2019-06-29 14:42:01 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /test [404] 185.977µs - 38 bytes 
+2019-06-29 14:42:01 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /test 
+2019-06-29 14:42:01 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /test [404] 150.383µs - 38 bytes 
+2019-06-29 14:45:20 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /test 
+2019-06-29 14:45:20 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /test [404] 114.276µs - 38 bytes 
+2019-06-29 14:45:25 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /page/ 
+2019-06-29 14:45:25 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /page/ [200] 392.793µs - 1289 bytes 
+2019-06-29 14:45:28 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /page 
+2019-06-29 14:45:28 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /page [200] 274.608µs - 1289 bytes 
+2019-06-29 14:45:32 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /edit/page 
+2019-06-29 14:45:32 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /edit/page [200] 435.009µs - 3335 bytes 
+2019-06-29 14:45:35 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 POST /edit/page 
+2019-06-29 14:45:35 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 POST /edit/page [200] 148.51281ms - 15 bytes 
+2019-06-29 14:45:38 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /page 
+2019-06-29 14:45:38 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /page [200] 257.742µs - 1301 bytes 
+2019-06-29 14:45:43 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /page/test 
+2019-06-29 14:45:43 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /page/test [200] 313.957µs - 1317 bytes 
+2019-06-29 14:46:00 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /file/test 
+2019-06-29 14:46:00 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /file/test [200] 854.337µs - 4 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /edit/file/test 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /edit/file/test [200] 458.517µs - 4709 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [304] 228.582µs - 0 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56834 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56834 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [304] 532.375µs - 0 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56902 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56902 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js [304] 419.531µs - 0 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:54640 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:54640 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [304] 555.627µs - 0 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56900 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56900 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [304] 791.107µs - 0 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56904 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56904 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js [304] 373.023µs - 0 bytes 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js 
+2019-06-29 14:46:07 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js [304] 152.785µs - 0 bytes 
+2019-06-29 14:46:36 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /edit/file/hello.js 
+2019-06-29 14:46:36 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /edit/file/hello.js [200] 337.693µs - 4709 bytes 
+2019-06-29 14:46:39 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 POST /edit/file/hello.js 
+2019-06-29 14:46:39 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 POST /edit/file/hello.js [200] 197.864017ms - 15 bytes 
+2019-06-29 14:47:00 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /edit/page/hello.httml 
+2019-06-29 14:47:00 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /edit/page/hello.httml [200] 282.987µs - 3335 bytes 
+2019-06-29 14:47:23 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 POST /edit/page/hello.httml 
+2019-06-29 14:47:23 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 POST /edit/page/hello.httml [200] 113.007867ms - 15 bytes 
+2019-06-29 14:47:25 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 POST /edit/page/hello.httml 
+2019-06-29 14:47:25 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 POST /edit/page/hello.httml [200] 138.315762ms - 15 bytes 
+2019-06-29 14:47:27 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /page/hello.httml 
+2019-06-29 14:47:27 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /page/hello.httml [200] 318.965µs - 1362 bytes 
+2019-06-29 14:47:27 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /page/edit/file/hello.js 
+2019-06-29 14:47:27 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /page/edit/file/hello.js [200] 371.994µs - 1289 bytes 
+2019-06-29 14:47:51 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /edit/page/hello.httml 
+2019-06-29 14:47:51 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /edit/page/hello.httml [200] 292.37µs - 3407 bytes 
+2019-06-29 14:48:02 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 POST /edit/page/hello.httml 
+2019-06-29 14:48:02 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 POST /edit/page/hello.httml [200] 127.072718ms - 15 bytes 
+2019-06-29 14:48:12 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 POST /edit/page/hello.httml 
+2019-06-29 14:48:12 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 POST /edit/page/hello.httml [200] 127.285834ms - 15 bytes 
+2019-06-29 14:48:15 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /page/hello.httml 
+2019-06-29 14:48:15 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /page/hello.httml [200] 293.403µs - 1359 bytes 
+2019-06-29 14:48:15 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /file/hello.js 
+2019-06-29 14:48:15 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /file/hello.js [200] 420.818µs - 21 bytes 
+2019-06-29 14:48:24 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /edit/page/hello.httml 
+2019-06-29 14:48:24 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /edit/page/hello.httml [200] 495.222µs - 3404 bytes 
+2019-06-29 14:48:29 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 POST /edit/page/hello.httml 
+2019-06-29 14:48:30 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 POST /edit/page/hello.httml [200] 135.498626ms - 15 bytes 
+2019-06-29 14:48:36 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /page/hello.httml 
+2019-06-29 14:48:36 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /page/hello.httml [200] 299.455µs - 1359 bytes 
+2019-06-29 14:48:36 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:56906 GET /file/hello.js 
+2019-06-29 14:48:36 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:56906 GET /file/hello.js [200] 268.959µs - 21 bytes 
+2019-06-30 12:18:58 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /file/hello.js 
+2019-06-30 12:18:58 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /file/hello.js [200] 256.808µs - 21 bytes 
+2019-06-30 12:19:13 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /edit/page/hello.html 
+2019-06-30 12:19:13 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /edit/page/hello.html [200] 330.378µs - 3335 bytes 
+2019-06-30 12:19:19 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /page/hello.html 
+2019-06-30 12:19:19 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /page/hello.html [200] 403.903µs - 1289 bytes 
+2019-06-30 12:19:22 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /page/hello 
+2019-06-30 12:19:22 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /page/hello [200] 244.554µs - 1289 bytes 
+2019-06-30 12:19:29 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /page/hello.httml 
+2019-06-30 12:19:29 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /page/hello.httml [200] 343.135µs - 1359 bytes 
+2019-06-30 12:19:29 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /file/hello.js 
+2019-06-30 12:19:29 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /file/hello.js [200] 332.978µs - 21 bytes 
+2019-06-30 12:19:37 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /edit/page/hello.httml 
+2019-06-30 12:19:37 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /edit/page/hello.httml [200] 565.774µs - 3404 bytes 
+2019-06-30 12:19:44 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /edit/page/hello.html 
+2019-06-30 12:19:44 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /edit/page/hello.html [200] 356.246µs - 3335 bytes 
+2019-06-30 12:19:46 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 POST /edit/page/hello.html 
+2019-06-30 12:19:46 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 POST /edit/page/hello.html [200] 126.807805ms - 15 bytes 
+2019-06-30 12:19:51 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /edit/page/hello.html 
+2019-06-30 12:19:51 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /edit/page/hello.html [200] 293.418µs - 3404 bytes 
+2019-06-30 12:19:53 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /page/hello.html 
+2019-06-30 12:19:53 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /page/hello.html [200] 373.101µs - 1359 bytes 
+2019-06-30 12:19:53 [DEBUG] [PID-32724] middleware.go 1:43  In [::1]:35008 GET /file/hello.js 
+2019-06-30 12:19:53 [DEBUG] [PID-32724] middleware.go 1:59 Out [::1]:35008 GET /file/hello.js [200] 413.847µs - 21 bytes 
+2019-06-30 12:29:03 [INFO] [PID-25118] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 12:29:03 [INFO] [PID-25118] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 12:29:08 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:39968 GET /page/hello.html 
+2019-06-30 12:29:08 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:39968 GET /page/hello.html [200] 521.494µs - 1359 bytes 
+2019-06-30 12:29:08 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:39968 GET /file/hello.js 
+2019-06-30 12:29:08 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:39968 GET /file/hello.js [200] 418.678µs - 21 bytes 
+2019-06-30 12:29:13 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:39968 GET /edit/page/hello.html 
+2019-06-30 12:29:13 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:39968 GET /edit/page/hello.html [200] 448.052µs - 3404 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:39968 GET /edit/file/hello.js 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:39968 GET /edit/file/hello.js [200] 426.062µs - 4738 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:39968 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:39968 GET /static/codemirror/codemirror-5.43.0/theme/cobalt.css [304] 195.129µs - 0 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:39968 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:39968 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.js [200] 3.446838ms - 394009 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:40070 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:40070 GET /static/codemirror/codemirror-5.43.0/lib/codemirror.css [304] 98.466µs - 0 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:40080 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:40080 GET /static/codemirror/codemirror-5.43.0/mode/css/css.js [304] 54.069µs - 0 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:40078 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:40078 GET /static/codemirror/codemirror-5.43.0/mode/javascript/javascript.js [304] 48.428µs - 0 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:40082 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:40082 GET /static/codemirror/codemirror-5.43.0/mode/htmlmixed/htmlmixed.js [304] 47.632µs - 0 bytes 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:43  In [::1]:40084 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js 
+2019-06-30 12:29:19 [DEBUG] [PID-25118] middleware.go 1:59 Out [::1]:40084 GET /static/codemirror/codemirror-5.43.0/mode/htmlembedded/htmlembedded.js [304] 55.029µs - 0 bytes 
+2019-06-30 12:45:53 [INFO] [PID-31333] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 12:45:53 [INFO] [PID-31333] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 12:46:02 [DEBUG] [PID-31333] middleware.go 1:43  In [::1]:48248 DELETE /delete/file/hello.js 
+2019-06-30 12:46:02 [DEBUG] [PID-31333] middleware.go 1:59 Out [::1]:48248 DELETE /delete/file/hello.js [404] 136.302µs - 38 bytes 
+2019-06-30 12:46:03 [DEBUG] [PID-31333] middleware.go 1:43  In [::1]:48248 GET /edit/file/hello.js 
+2019-06-30 12:46:03 [DEBUG] [PID-31333] middleware.go 1:59 Out [::1]:48248 GET /edit/file/hello.js [200] 464.218µs - 4738 bytes 
+2019-06-30 12:46:56 [INFO] [PID-31651] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 12:46:56 [INFO] [PID-31651] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 12:46:58 [DEBUG] [PID-31651] middleware.go 1:43  In [::1]:48706 DELETE /delete/file/hello.js 
+2019-06-30 12:46:58 [DEBUG] [PID-31651] middleware.go 1:59 Out [::1]:48706 DELETE /delete/file/hello.js [404] 139.36µs - 38 bytes 
+2019-06-30 12:47:10 [DEBUG] [PID-31651] middleware.go 1:43  In [::1]:48706 GET /edit/file/hello.js 
+2019-06-30 12:47:10 [DEBUG] [PID-31651] middleware.go 1:59 Out [::1]:48706 GET /edit/file/hello.js [200] 577.123µs - 4710 bytes 
+2019-06-30 12:47:12 [DEBUG] [PID-31651] middleware.go 1:43  In [::1]:48706 DELETE /edit/file/hello.js 
+2019-06-30 12:47:12 [DEBUG] [PID-31651] middleware.go 1:59 Out [::1]:48706 DELETE /edit/file/hello.js [500] 190.678µs - 56 bytes 
+2019-06-30 12:47:30 [INFO] [PID-31999] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 12:47:30 [INFO] [PID-31999] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 12:47:32 [DEBUG] [PID-31999] middleware.go 1:43  In [::1]:48982 DELETE /edit/file/hello.js 
+2019-06-30 12:47:32 [DEBUG] [PID-31999] middleware.go 1:59 Out [::1]:48982 DELETE /edit/file/hello.js [200] 127.804527ms - 15 bytes 
+2019-06-30 12:47:36 [DEBUG] [PID-31999] middleware.go 1:43  In [::1]:48982 GET /edit/file/hello.js 
+2019-06-30 12:47:36 [DEBUG] [PID-31999] middleware.go 1:59 Out [::1]:48982 GET /edit/file/hello.js [200] 497.028µs - 4681 bytes 
+2019-06-30 12:47:39 [DEBUG] [PID-31999] middleware.go 1:43  In [::1]:48982 POST /edit/file/hello.js 
+2019-06-30 12:47:39 [DEBUG] [PID-31999] middleware.go 1:59 Out [::1]:48982 POST /edit/file/hello.js [200] 241.213736ms - 15 bytes 
+2019-06-30 12:47:50 [DEBUG] [PID-31999] middleware.go 1:43  In [::1]:48982 GET /edit/page/hello.httml 
+2019-06-30 12:47:50 [DEBUG] [PID-31999] middleware.go 1:59 Out [::1]:48982 GET /edit/page/hello.httml [200] 438.528µs - 3368 bytes 
+2019-06-30 12:47:52 [DEBUG] [PID-31999] middleware.go 1:43  In [::1]:48982 DELETE /edit/page/hello.httml 
+2019-06-30 12:47:52 [DEBUG] [PID-31999] middleware.go 1:59 Out [::1]:48982 DELETE /edit/page/hello.httml [200] 103.037946ms - 15 bytes 
+2019-06-30 12:47:54 [DEBUG] [PID-31999] middleware.go 1:43  In [::1]:48982 GET /edit/page/hello.httml 
+2019-06-30 12:47:54 [DEBUG] [PID-31999] middleware.go 1:59 Out [::1]:48982 GET /edit/page/hello.httml [200] 607.854µs - 3299 bytes 
+2019-06-30 12:47:58 [DEBUG] [PID-31999] middleware.go 1:43  In [::1]:48982 GET /edit/page/hello.html 
+2019-06-30 12:47:58 [DEBUG] [PID-31999] middleware.go 1:59 Out [::1]:48982 GET /edit/page/hello.html [200] 383.819µs - 3368 bytes 
+2019-06-30 12:55:46 [INFO] [PID-5523] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 12:55:46 [INFO] [PID-5523] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 12:55:51 [DEBUG] [PID-5523] middleware.go 1:43  In [::1]:53050 DELETE /edit/page/hello.html 
+2019-06-30 12:55:51 [DEBUG] [PID-5523] middleware.go 1:59 Out [::1]:53050 DELETE /edit/page/hello.html [200] 91.815242ms - 15 bytes 
+2019-06-30 12:55:52 [DEBUG] [PID-5523] middleware.go 1:43  In [::1]:53050 GET /edit/page/hello.html 
+2019-06-30 12:55:52 [DEBUG] [PID-5523] middleware.go 1:59 Out [::1]:53050 GET /edit/page/hello.html [200] 824.642µs - 3299 bytes 
+2019-06-30 12:55:55 [DEBUG] [PID-5523] middleware.go 1:43  In [::1]:53050 POST /edit/page/hello.html 
+2019-06-30 12:55:55 [DEBUG] [PID-5523] middleware.go 1:59 Out [::1]:53050 POST /edit/page/hello.html [200] 141.800446ms - 15 bytes 
+2019-06-30 12:56:02 [DEBUG] [PID-5523] middleware.go 1:43  In [::1]:53050 GET /edit/page/hello.html 
+2019-06-30 12:56:02 [DEBUG] [PID-5523] middleware.go 1:59 Out [::1]:53050 GET /edit/page/hello.html [200] 336.395µs - 3368 bytes 
+2019-06-30 12:56:07 [DEBUG] [PID-5523] middleware.go 1:43  In [::1]:53050 GET /edit/page/test 
+2019-06-30 12:56:07 [DEBUG] [PID-5523] middleware.go 1:59 Out [::1]:53050 GET /edit/page/test [200] 249.721µs - 3306 bytes 
+2019-06-30 12:56:11 [DEBUG] [PID-5523] middleware.go 1:43  In [::1]:53050 DELETE /edit/page/test 
+2019-06-30 12:56:11 [DEBUG] [PID-5523] middleware.go 1:59 Out [::1]:53050 DELETE /edit/page/test [200] 129.196665ms - 15 bytes 
+2019-06-30 12:56:13 [DEBUG] [PID-5523] middleware.go 1:43  In [::1]:53050 GET /edit/page/test 
+2019-06-30 12:56:13 [DEBUG] [PID-5523] middleware.go 1:59 Out [::1]:53050 GET /edit/page/test [200] 326.329µs - 3299 bytes 
+2019-06-30 12:59:21 [INFO] [PID-7305] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 12:59:21 [INFO] [PID-7305] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 12:59:26 [DEBUG] [PID-7305] middleware.go 1:43  In [::1]:54844 POST /edit/page/test 
+2019-06-30 12:59:26 [DEBUG] [PID-7305] middleware.go 1:59 Out [::1]:54844 POST /edit/page/test [200] 122.40584ms - 15 bytes 
+2019-06-30 12:59:30 [DEBUG] [PID-7305] middleware.go 1:43  In [::1]:54844 POST /edit/page/test 
+2019-06-30 12:59:31 [DEBUG] [PID-7305] middleware.go 1:59 Out [::1]:54844 POST /edit/page/test [200] 132.386099ms - 15 bytes 
+2019-06-30 12:59:34 [DEBUG] [PID-7305] middleware.go 1:43  In [::1]:54844 GET /edit/page/test 
+2019-06-30 12:59:34 [DEBUG] [PID-7305] middleware.go 1:59 Out [::1]:54844 GET /edit/page/test [200] 359.32µs - 3314 bytes 
+2019-06-30 13:05:22 [INFO] [PID-11461] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:05:22 [INFO] [PID-11461] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:05:24 [DEBUG] [PID-11461] middleware.go 1:43  In [::1]:57736 DELETE /edit/page/test 
+2019-06-30 13:05:24 [DEBUG] [PID-11461] middleware.go 1:59 Out [::1]:57736 DELETE /edit/page/test [200] 89.597639ms - 15 bytes 
+2019-06-30 13:05:26 [DEBUG] [PID-11461] middleware.go 1:43  In [::1]:57736 GET /edit/page/test 
+2019-06-30 13:05:26 [DEBUG] [PID-11461] middleware.go 1:59 Out [::1]:57736 GET /edit/page/test [200] 443.308µs - 3299 bytes 
+2019-06-30 13:05:27 [DEBUG] [PID-11461] middleware.go 1:43  In [::1]:57736 POST /edit/page/test 
+2019-06-30 13:05:27 [DEBUG] [PID-11461] middleware.go 1:59 Out [::1]:57736 POST /edit/page/test [200] 121.864152ms - 15 bytes 
+2019-06-30 13:08:03 [INFO] [PID-13325] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:08:03 [INFO] [PID-13325] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:08:10 [DEBUG] [PID-13325] middleware.go 1:43  In [::1]:59068 POST /edit/page/test 
+2019-06-30 13:08:10 [DEBUG] [PID-13325] middleware.go 1:59 Out [::1]:59068 POST /edit/page/test [200] 87.867564ms - 15 bytes 
+2019-06-30 13:11:28 [INFO] [PID-15436] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:11:28 [INFO] [PID-15436] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:11:29 [DEBUG] [PID-15436] middleware.go 1:43  In [::1]:60670 GET /edit/page/test 
+2019-06-30 13:11:29 [DEBUG] [PID-15436] middleware.go 1:59 Out [::1]:60670 GET /edit/page/test [200] 654.592µs - 3319 bytes 
+2019-06-30 13:11:55 [INFO] [PID-16031] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:11:55 [INFO] [PID-16031] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:12:04 [INFO] [PID-16258] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:12:04 [INFO] [PID-16258] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:12:05 [DEBUG] [PID-16258] middleware.go 1:43  In [::1]:60974 GET /edit/page/test 
+2019-06-30 13:12:05 [DEBUG] [PID-16258] middleware.go 1:59 Out [::1]:60974 GET /edit/page/test [200] 424.839µs - 3319 bytes 
+2019-06-30 13:13:44 [INFO] [PID-17239] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:13:44 [INFO] [PID-17239] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:13:49 [DEBUG] [PID-17239] middleware.go 1:43  In [::1]:33582 GET /edit/page/test 
+2019-06-30 13:13:49 [DEBUG] [PID-17239] middleware.go 1:59 Out [::1]:33582 GET /edit/page/test [200] 440.561µs - 3319 bytes 
+2019-06-30 13:13:55 [DEBUG] [PID-17239] middleware.go 1:43  In [::1]:33582 DELETE /edit/page/test 
+2019-06-30 13:13:55 [DEBUG] [PID-17239] middleware.go 1:59 Out [::1]:33582 DELETE /edit/page/test [200] 120.349136ms - 15 bytes 
+2019-06-30 13:14:00 [DEBUG] [PID-17239] middleware.go 1:43  In [::1]:33582 GET /edit/page/test 
+2019-06-30 13:14:00 [DEBUG] [PID-17239] middleware.go 1:59 Out [::1]:33582 GET /edit/page/test [200] 623.431µs - 3299 bytes 
+2019-06-30 13:14:07 [DEBUG] [PID-17239] middleware.go 1:43  In [::1]:33582 POST /edit/page/test 
+2019-06-30 13:14:07 [DEBUG] [PID-17239] middleware.go 1:59 Out [::1]:33582 POST /edit/page/test [200] 119.294407ms - 15 bytes 
+2019-06-30 13:14:14 [DEBUG] [PID-17239] middleware.go 1:43  In [::1]:33582 POST /edit/page/test 
+2019-06-30 13:14:14 [DEBUG] [PID-17239] middleware.go 1:59 Out [::1]:33582 POST /edit/page/test [200] 69.021988ms - 15 bytes 
+2019-06-30 13:32:30 [INFO] [PID-27598] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:32:30 [INFO] [PID-27598] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:32:45 [INFO] [PID-27812] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:32:45 [INFO] [PID-27812] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:33:08 [INFO] [PID-28122] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:33:08 [INFO] [PID-28122] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:34:24 [INFO] [PID-29193] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:34:24 [INFO] [PID-29193] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:35:14 [INFO] [PID-30158] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:35:14 [INFO] [PID-30158] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:41:25 [INFO] [PID-2571] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:41:25 [INFO] [PID-2571] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:46:34 [INFO] [PID-6937] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 13:46:34 [INFO] [PID-6937] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 13:46:40 [DEBUG] [PID-6937] middleware.go 1:43  In [::1]:49728 GET /edit/page/test 
+2019-06-30 13:46:40 [DEBUG] [PID-6937] middleware.go 1:59 Out [::1]:49728 GET /edit/page/test [200] 411.058µs - 3328 bytes 
+2019-06-30 13:46:43 [DEBUG] [PID-6937] middleware.go 1:43  In [::1]:49728 POST /edit/page/test 
+2019-06-30 13:46:43 [DEBUG] [PID-6937] middleware.go 1:59 Out [::1]:49728 POST /edit/page/test [200] 180.873914ms - 15 bytes 
+2019-06-30 14:02:25 [INFO] [PID-14769] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:02:25 [INFO] [PID-14769] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:04:51 [INFO] [PID-15994] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:04:51 [INFO] [PID-15994] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:06:05 [INFO] [PID-16685] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:06:05 [INFO] [PID-16685] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:06:28 [INFO] [PID-16981] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:06:28 [INFO] [PID-16981] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:11:05 [INFO] [PID-19733] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:11:05 [INFO] [PID-19733] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:14:24 [INFO] [PID-22507] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:14:24 [INFO] [PID-22507] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:15:55 [INFO] [PID-23771] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:15:55 [INFO] [PID-23771] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:17:40 [INFO] [PID-25306] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:17:40 [INFO] [PID-25306] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-06-30 14:31:16 [INFO] [PID-30785] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-06-30 14:31:16 [INFO] [PID-30785] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-07-01 11:47:11 [INFO] [PID-7165] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-07-01 11:47:11 [INFO] [PID-7165] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-07-01 11:47:24 [DEBUG] [PID-7165] middleware.go 1:43  In [::1]:36302 GET /edit/page/test 
+2019-07-01 11:47:24 [DEBUG] [PID-7165] middleware.go 1:59 Out [::1]:36302 GET /edit/page/test [200] 1.046896ms - 3328 bytes 
+2019-07-01 11:47:25 [DEBUG] [PID-7165] middleware.go 1:43  In [::1]:36302 GET /favicon.ico 
+2019-07-01 11:47:25 [DEBUG] [PID-7165] middleware.go 1:59 Out [::1]:36302 GET /favicon.ico [404] 109.69µs - 38 bytes 
+2019-07-01 11:47:27 [DEBUG] [PID-7165] middleware.go 1:43  In [::1]:36302 GET /edit/page/test 
+2019-07-01 11:47:27 [DEBUG] [PID-7165] middleware.go 1:59 Out [::1]:36302 GET /edit/page/test [200] 139.831µs - 3328 bytes 
+2019-07-01 17:01:27 [INFO] [PID-25925] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-07-01 17:01:27 [INFO] [PID-25925] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-07-01 17:01:36 [INFO] [PID-26032] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-07-01 17:01:36 [INFO] [PID-26032] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-07-01 17:01:41 [DEBUG] [PID-26032] middleware.go 1:43  In [::1]:37070 GET /edit/page/test 
+2019-07-01 17:01:41 [DEBUG] [PID-26032] middleware.go 1:59 Out [::1]:37070 GET /edit/page/test [200] 766.306µs - 3328 bytes 
+2019-07-01 17:01:48 [DEBUG] [PID-26032] middleware.go 1:43  In [::1]:37070 GET /edit/page/test 
+2019-07-01 17:01:48 [DEBUG] [PID-26032] middleware.go 1:59 Out [::1]:37070 GET /edit/page/test [200] 167.801µs - 3328 bytes 
+2019-07-01 17:01:55 [DEBUG] [PID-26032] middleware.go 1:43  In [::1]:37070 GET /edit/page/test 
+2019-07-01 17:01:55 [DEBUG] [PID-26032] middleware.go 1:59 Out [::1]:37070 GET /edit/page/test [200] 158.674µs - 3328 bytes 
+2019-07-01 17:01:55 [DEBUG] [PID-26032] middleware.go 1:43  In [::1]:37070 GET /edit/page/test 
+2019-07-01 17:01:55 [DEBUG] [PID-26032] middleware.go 1:59 Out [::1]:37070 GET /edit/page/test [200] 133.756µs - 3328 bytes 
+2019-07-01 17:02:05 [INFO] [PID-26240] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-07-01 17:02:05 [INFO] [PID-26240] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-07-01 17:02:08 [DEBUG] [PID-26240] middleware.go 1:43  In [::1]:37088 GET /edit/page/test 
+2019-07-01 17:02:08 [DEBUG] [PID-26240] middleware.go 1:59 Out [::1]:37088 GET /edit/page/test [200] 2.814405ms - 3328 bytes 
+2019-07-01 17:02:14 [DEBUG] [PID-26240] middleware.go 1:43  In [::1]:37088 GET /edit/page/test 
+2019-07-01 17:02:14 [DEBUG] [PID-26240] middleware.go 1:59 Out [::1]:37088 GET /edit/page/test [200] 171.003µs - 3328 bytes 
+2019-07-01 17:03:29 [INFO] [PID-26485] server.go AttachHandlerFunc:30 Attaching HTTP handler for route: [GET] / 
+2019-07-01 17:03:29 [INFO] [PID-26485] server.go ListenAndServe:51 Magic happens on port 8000 
+2019-07-01 17:03:35 [DEBUG] [PID-26485] middleware.go 1:43  In [::1]:37154 GET /page/test 
+2019-07-01 17:03:35 [DEBUG] [PID-26485] middleware.go 1:59 Out [::1]:37154 GET /page/test [200] 606.07µs - 1339 bytes 
+2019-07-01 17:03:37 [DEBUG] [PID-26485] middleware.go 1:43  In [::1]:37154 GET /page/test 
+2019-07-01 17:03:37 [DEBUG] [PID-26485] middleware.go 1:59 Out [::1]:37154 GET /page/test [200] 173.633µs - 1339 bytes 
